@@ -1,2 +1,3 @@
-# mnist-digit-classification
-Handwritten digit recognition using a CNN trained on the MNIST dataset.
+# Digit-Recognition-with-MNIST-data
+Using CNN (LeNet)
+Final result: 99,307%
